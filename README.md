@@ -82,4 +82,3 @@ We encourage you to report issues and contribute changes
 
 Deepin Log Viewer is licensed under [GPL-3.0-or-later](LICENSE.txt).
 
-
